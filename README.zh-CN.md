@@ -174,4 +174,4 @@ acme.sh 的输出保持其原始格式。
 
 如果你觉得项目还不错，给个 Star 吧。你的认可是我前进的动力！
 
-![微信赞赏](img/WeChat-pay.png)
+![微信赞赏](./img/WeChat-pay.png)

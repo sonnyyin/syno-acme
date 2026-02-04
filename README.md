@@ -175,4 +175,4 @@ See [LICENSE](LICENSE) file.
 
 If you find this project helpful, please give it a star. Your recognition is my motivation!
 
-![WeChat Pay](img/WeChat-pay.png)
+![WeChat Pay](./img/WeChat-pay.png)
